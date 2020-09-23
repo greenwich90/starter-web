@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Using Docker and AWS
+
 ## How To Contribute 
