@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Using Docker and AWS
 
 ## How To Contribute 
+
+Give me moneys
