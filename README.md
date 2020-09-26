@@ -13,3 +13,7 @@ Using Docker and AWS
 ## How To Contribute 
 
 Give me moneys
+
+## Copyright
+
+Copyright 2020 Git.training
