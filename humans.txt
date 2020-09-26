@@ -3,12 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  
 	Jake Searle		jakesearle90@gmail.com		jakeys
 
 # THANKS
 
-    <name>
+   To me!
 
 # TECHNOLOGY COLOPHON
 
