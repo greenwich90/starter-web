@@ -12,7 +12,7 @@ Using Docker and AWS
 
 ## How To Contribute 
 
-Give me moneys
+Give me moneys, or loads of compliments 
 
 ## Copyright
 
