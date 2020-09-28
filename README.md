@@ -16,4 +16,4 @@ Give me moneys, or loads of compliments
 
 ## Copyright
 
-Copyright 2020 Git.training
+Copyright 2020 Git.training. All rights reserved.
