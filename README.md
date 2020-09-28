@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, also doing branching/merging examples, then more changes from myfeature branch too.
+This repository is for showing how Git and GitHub work, also doing branching/merging examples, then more changes from myfeature branch too. We are doing an emergencty fix after stash.
 
 ## Purpose
 
